@@ -1,0 +1,22 @@
+{
+    "Student 1": {
+        "Name": "Tony",
+        "cgpa": "9",
+        "Branch": "aiml"
+    },
+    "student 2": {
+        "Name": "John",
+        "cgpa": "8.3",
+        "Branch": "ai"
+    },
+    "student 3": {
+        "Name": "Tailor",
+        "cgpa": "7.7",
+        "Branch": "electrical"
+    },
+    "student 4": {
+        "Name": "suhant",
+        "cgpa": "8",
+        "Branch": "aiml"
+    }
+}
