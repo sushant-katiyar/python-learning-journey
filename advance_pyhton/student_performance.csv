@@ -1,0 +1,16 @@
+,student_id,name,age,city,branch,math,science,english,hindi,attendance_pct,total,average,grade,status,age group
+0,1,Amit,19,Mumbai,AIML,85.0,78.0,88.0,82,92.0,333.0,83.25,B,Good,Young
+1,2,Priya,20,Delhi,CSE,92.0,88.0,79.0,85,85.0,344.0,86.0,B,Good,Mid
+2,3,Rahul,19,Mumbai,AIML,78.0,82.0,85.0,79,78.0,324.0,81.0,B,Good,Young
+3,4,Sneha,21,Chennai,ECE,85.0,91.0,87.0,88,91.0,351.0,87.75,B,Star,Mid
+4,5,Karan,20,Delhi,CSE,88.0,75.0,92.0,80,65.0,335.0,83.75,B,At risk,Mid
+5,6,Divya,19,Mumbai,AIML,76.0,85.0,83.0,85,88.0,329.0,82.25,B,Good,Young
+6,7,Rohan,22,Pune,CSE,95.0,89.0,78.0,92,95.0,354.0,88.5,B,Star,Senior
+7,8,Pooja,20,Chennai,ECE,82.0,79.0,85.0,84,72.0,330.0,82.5,B,Average,Mid
+8,9,Arjun,21,Delhi,AIML,85.0,85.0,88.0,79,80.0,337.0,84.25,B,Good,Mid
+9,10,Neha,19,Mumbai,CSE,90.0,92.0,85.0,88,93.0,355.0,88.75,B,Star,Young
+10,11,Vikram,20,Pune,ECE,79.0,85.0,82.0,85,69.0,331.0,82.75,B,At risk,Mid
+11,12,Ananya,21,Delhi,AIML,88.0,84.0,79.0,92,87.0,343.0,85.75,B,Good,Mid
+12,13,Raj,19,Mumbai,CSE,92.0,88.0,85.0,79,91.0,344.0,86.0,B,Star,Young
+13,14,Meera,20,Chennai,ECE,75.0,81.0,88.0,85,83.53846153846153,329.0,82.25,B,Good,Mid
+14,15,Dev,22,Pune,AIML,85.0,90.0,92.0,88,83.53846153846153,355.0,88.75,B,Good,Senior
